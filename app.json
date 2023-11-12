@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "cloudy",
+    "slug": "snack-974b34f6-e696-4174-9c40-bddc49457ef4",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.juliaacosta.snack974b34f6e69641749c40bddc49457ef4"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fbdcb69a-7f80-4bdc-9e91-8579d21ebcd3"
+      }
+    }
+  }
+}
