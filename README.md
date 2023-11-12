@@ -1,11 +1,13 @@
-# Sample Snack app
+Aplicação produzida para praticar conexão com o Firebase e a navegação entre telas.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Página de login:
+![2023-11-12 (3)](https://github.com/juliArodrigues4/Cloudy/assets/134558867/b805df01-b580-4739-92e2-3b13c2cc72df)
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+Home:
+![2023-11-12 (4)](https://github.com/juliArodrigues4/Cloudy/assets/134558867/937c1ecd-c564-4f75-822a-8167ac11b1b6)
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+Kraken:
+![2023-11-12 (6)](https://github.com/juliArodrigues4/Cloudy/assets/134558867/1eaea5ae-50ce-45b9-820b-5e5ca795043a)
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Sirens:
+![2023-11-12 (5)](https://github.com/juliArodrigues4/Cloudy/assets/134558867/f1d8aef3-427b-4518-8de8-7cb249b81e0b)
